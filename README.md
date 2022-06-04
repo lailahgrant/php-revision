@@ -33,6 +33,8 @@
 >* In your broswer, install the `live server Web extension`, click on the server, add the link to your website e.g. `http://localhost/study-php`
 
 * Variables and Data types
+> 02_var_datatypes.php
+
 * Arrays and Array methods
 * Conditionals
 * Loops and iterations
