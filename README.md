@@ -36,6 +36,8 @@
 > 02_var_datatypes.php
 
 * Arrays and Array methods
+> 03_arrays.php  
+
 * Conditionals
 * Loops and iterations
 * Functions
